@@ -17,3 +17,7 @@ Using clt As New MailslotClient("test_channel")
   clt.SendMessage("Hello, mailslots")
 End Using
 ```
+
+## Links 
+
+- [Mailslots and iChat reversing](https://soltau.ru/index.php/themes/dev/item/554-interfejs-mailslot-na-primere-raboty-chata-intranet-chat)
